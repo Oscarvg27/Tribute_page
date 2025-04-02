@@ -1,0 +1,87 @@
+header {
+  text-align: center;
+}
+
+header p {
+  padding: 20px;
+  margin: 0;
+  font-size: 0.8rem;
+}
+
+#title {
+  margin: 0;
+  padding-top: 30px;
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+body {
+  font-family: Arial;
+  margin: 0;
+  background-color: #ebedef;
+}
+
+#main {
+  padding-top: 10px;
+  margin: 5% 2%;
+  background-color: #ccd1d1;
+  border-radius: 5px;
+}
+
+#img-div {
+  box-sizing: border-box;
+  background-color: #ebedef;
+  padding: 5%;
+  width: 95%;
+  margin: auto;
+  border-radius: 8px;
+  text-align: center;
+}
+
+#image {
+  height: auto;
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+figcaption {
+  padding-top: 10px;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+#tribute-info {
+  text-align: center;
+  margin: 0 8%;
+  padding: 20px 35px;
+}
+
+#tribute-info h3, #tribute-info p {
+  display: flex;
+  justify-content: apce-between;
+}
+
+.date, .benefit {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-right: 2em;
+} 
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  padding-top: 25px;
+}
+
+footer {
+  text-align: center;
+  margin: 0;
+  padding: 15px 0;
+  font-size: 1.2rem;
+}
+
+a {
+  color: black
+
+}
